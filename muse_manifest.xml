@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="actividad d4 georgina ortega.com" resolutions="1x" timestamp="1637437886035">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="actividad d4 georgina ortega.com" resolutions="1x" timestamp="1637442725175">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="389320297" ref="about-as:beberages:cakes:index:cupcakes"/>
+    <file name="master_a-master.css" crc="381763419" ref="about-as:beberages:cakes:index:cupcakes"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="about-as:beberages:cakes:index:cupcakes"/>
-    <file name="about-as.css" crc="32726131" ref="about-as"/>
+    <file name="about-as.css" crc="4203503243" ref="about-as"/>
     <file name="nomq_about-as.css" crc="3880772038" ref="about-as"/>
-    <file name="beberages.css" crc="4011627136" ref="beberages"/>
+    <file name="beberages.css" crc="4113678870" ref="beberages"/>
     <file name="nomq_beberages.css" crc="393880438" ref="beberages"/>
-    <file name="cakes.css" crc="448501200" ref="cakes"/>
+    <file name="cakes.css" crc="120104521" ref="cakes"/>
     <file name="nomq_cakes.css" crc="225544358" ref="cakes"/>
-    <file name="index.css" crc="4031524004" ref="index"/>
+    <file name="index.css" crc="4042210190" ref="index"/>
     <file name="nomq_index.css" crc="3969988453" ref="index"/>
-    <file name="cupcakes.css" crc="457435485" ref="cupcakes"/>
-    <file name="nomq_cupcakes.css" crc="205607838" ref="cupcakes"/>
+    <file name="cupcakes.css" crc="273852189" ref="cupcakes"/>
+    <file name="nomq_cupcakes.css" crc="4209773729" ref="cupcakes"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:cupcakes:cakes:beberages:about-as"/>
@@ -23,7 +23,7 @@
     <file name="require.js" crc="4177726516" ref="index:cupcakes:cakes:beberages:about-as"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3979254055" ref="index:cupcakes"/>
+    <file name="favicon.ico" crc="3979254055" ref="index"/>
     <file name="logo.png" crc="3975536845" seo="true" ref="index:cupcakes:cakes:beberages:about-as">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -316,9 +316,9 @@
     <file name="u691-43.png" crc="136024775" ref="about-as"/>
     <file name="u698-73.png" crc="189130285" ref="about-as"/>
   </folder>
-  <file name="index.html" crc="3945448551" seo="true" mt="1637437781509" redirect="true"/>
-  <file name="cupcakes.html" crc="4254803491" seo="true" mt="1637437856736" redirect="true"/>
-  <file name="cakes.html" crc="4086772553" seo="true" mt="1637437622657" redirect="true"/>
-  <file name="beberages.html" crc="4210735775" seo="true" mt="1637437137078" redirect="true"/>
-  <file name="about-as.html" crc="4229969815" seo="true" mt="1637437219065" redirect="true"/>
+  <file name="index.html" crc="3814577175" seo="true" mt="1637442642771" redirect="true"/>
+  <file name="cupcakes.html" crc="182360442" seo="true" mt="1637442409506" redirect="true"/>
+  <file name="cakes.html" crc="4104771865" seo="true" mt="1637442133277" redirect="true"/>
+  <file name="beberages.html" crc="4019619950" seo="true" mt="1637442203933" redirect="true"/>
+  <file name="about-as.html" crc="3847984704" seo="true" mt="1637442246364" redirect="true"/>
 </manifest>
