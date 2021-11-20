@@ -1,0 +1,324 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="actividad d4 georgina ortega.com" resolutions="1x" timestamp="1637437886035">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="389320297" ref="about-as:beberages:cakes:index:cupcakes"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="about-as:beberages:cakes:index:cupcakes"/>
+    <file name="about-as.css" crc="32726131" ref="about-as"/>
+    <file name="nomq_about-as.css" crc="3880772038" ref="about-as"/>
+    <file name="beberages.css" crc="4011627136" ref="beberages"/>
+    <file name="nomq_beberages.css" crc="393880438" ref="beberages"/>
+    <file name="cakes.css" crc="448501200" ref="cakes"/>
+    <file name="nomq_cakes.css" crc="225544358" ref="cakes"/>
+    <file name="index.css" crc="4031524004" ref="index"/>
+    <file name="nomq_index.css" crc="3969988453" ref="index"/>
+    <file name="cupcakes.css" crc="457435485" ref="cupcakes"/>
+    <file name="nomq_cupcakes.css" crc="205607838" ref="cupcakes"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:cupcakes:cakes:beberages:about-as"/>
+    <file name="museutils.js" crc="3939489907" ref="index:cupcakes:cakes:beberages:about-as"/>
+    <file name="whatinput.js" crc="86476730" ref="index:cupcakes:cakes:beberages:about-as"/>
+    <file name="museconfig.js" crc="128606099" ref="index:cupcakes:cakes:beberages:about-as"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:cupcakes:cakes:beberages:about-as"/>
+    <file name="require.js" crc="4177726516" ref="index:cupcakes:cakes:beberages:about-as"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3979254055" ref="index:cupcakes"/>
+    <file name="logo.png" crc="3975536845" seo="true" ref="index:cupcakes:cakes:beberages:about-as">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="cakes" alt=""/>
+      <caption webpage="cakes" alt=""/>
+      <caption webpage="cakes" alt=""/>
+      <caption webpage="about-as" alt=""/>
+      <caption webpage="about-as" alt=""/>
+      <caption webpage="about-as" alt=""/>
+      <caption webpage="cupcakes" alt=""/>
+      <caption webpage="cupcakes" alt=""/>
+      <caption webpage="cupcakes" alt=""/>
+      <caption webpage="beberages" alt=""/>
+      <caption webpage="beberages" alt=""/>
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="prod temporada.png" crc="227589188" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="correo-electronico.png" crc="3879251830" seo="true" ref="index:cupcakes:cakes:beberages:about-as">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="cakes" alt=""/>
+      <caption webpage="cakes" alt=""/>
+      <caption webpage="cakes" alt=""/>
+      <caption webpage="about-as" alt=""/>
+      <caption webpage="about-as" alt=""/>
+      <caption webpage="about-as" alt=""/>
+      <caption webpage="cupcakes" alt=""/>
+      <caption webpage="cupcakes" alt=""/>
+      <caption webpage="cupcakes" alt=""/>
+      <caption webpage="beberages" alt=""/>
+      <caption webpage="beberages" alt=""/>
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="logotipo-de-instagram.png" crc="3932799551" seo="true" ref="index:cupcakes:cakes:beberages:about-as">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="cakes" alt=""/>
+      <caption webpage="cakes" alt=""/>
+      <caption webpage="cakes" alt=""/>
+      <caption webpage="about-as" alt=""/>
+      <caption webpage="about-as" alt=""/>
+      <caption webpage="about-as" alt=""/>
+      <caption webpage="cupcakes" alt=""/>
+      <caption webpage="cupcakes" alt=""/>
+      <caption webpage="cupcakes" alt=""/>
+      <caption webpage="beberages" alt=""/>
+      <caption webpage="beberages" alt=""/>
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="facebook.png" crc="4281314402" seo="true" ref="index:cupcakes:cakes:beberages:about-as">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="cakes" alt=""/>
+      <caption webpage="cakes" alt=""/>
+      <caption webpage="cakes" alt=""/>
+      <caption webpage="about-as" alt=""/>
+      <caption webpage="about-as" alt=""/>
+      <caption webpage="about-as" alt=""/>
+      <caption webpage="cupcakes" alt=""/>
+      <caption webpage="cupcakes" alt=""/>
+      <caption webpage="cupcakes" alt=""/>
+      <caption webpage="beberages" alt=""/>
+      <caption webpage="beberages" alt=""/>
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:cupcakes:cakes:beberages:about-as"/>
+    <file name="berries.jpg" crc="136077366" seo="true" ref="cupcakes">
+      <caption webpage="cupcakes" alt=""/>
+      <caption webpage="cupcakes" alt=""/>
+      <caption webpage="cupcakes" alt=""/>
+    </file>
+    <file name="hllwpic.jpg" crc="4154555216" seo="true" ref="cupcakes">
+      <caption webpage="cupcakes" alt=""/>
+      <caption webpage="cupcakes" alt=""/>
+    </file>
+    <file name="hllw1.jpg" crc="4064589135" seo="true" ref="cupcakes">
+      <caption webpage="cupcakes" alt=""/>
+      <caption webpage="cupcakes" alt=""/>
+    </file>
+    <file name="cupcake3276x276.jpg" crc="4159683571" seo="true" ref="cupcakes">
+      <caption webpage="cupcakes" alt=""/>
+    </file>
+    <file name="cupcake1277x277.jpg" crc="121319993" seo="true" ref="cupcakes">
+      <caption webpage="cupcakes" alt=""/>
+    </file>
+    <file name="cupcake2277x277.jpg" crc="4253039400" seo="true" ref="cupcakes">
+      <caption webpage="cupcakes" alt=""/>
+    </file>
+    <file name="cupcake4275x275.jpg" crc="4183874767" seo="true" ref="cupcakes">
+      <caption webpage="cupcakes" alt=""/>
+    </file>
+    <file name="cupcake5275x275.jpg" crc="3917804865" seo="true" ref="cupcakes">
+      <caption webpage="cupcakes" alt=""/>
+    </file>
+    <file name="u926-4.png" crc="4146948100" ref="cupcakes"/>
+    <file name="hllwpic225x225.jpg" crc="3812245220" seo="true" ref="cupcakes">
+      <caption webpage="cupcakes" alt=""/>
+    </file>
+    <file name="hllw1224x226.jpg" crc="4036585979" seo="true" ref="cupcakes">
+      <caption webpage="cupcakes" alt=""/>
+    </file>
+    <file name="cupcake3225x225.jpg" crc="393572863" seo="true" ref="cupcakes">
+      <caption webpage="cupcakes" alt=""/>
+    </file>
+    <file name="cupcake1225x225.jpg" crc="4281951765" seo="true" ref="cupcakes">
+      <caption webpage="cupcakes" alt=""/>
+    </file>
+    <file name="cupcake2225x226.jpg" crc="4070102807" seo="true" ref="cupcakes">
+      <caption webpage="cupcakes" alt=""/>
+    </file>
+    <file name="cupcake4225x225.jpg" crc="342607354" seo="true" ref="cupcakes">
+      <caption webpage="cupcakes" alt=""/>
+    </file>
+    <file name="cupcake5225x225.jpg" crc="357143646" seo="true" ref="cupcakes">
+      <caption webpage="cupcakes" alt=""/>
+    </file>
+    <file name="u926-42.png" crc="4146948100" ref="cupcakes"/>
+    <file name="cupcake3.jpg" crc="4274013418" seo="true" ref="cupcakes">
+      <caption webpage="cupcakes" alt=""/>
+    </file>
+    <file name="cupcake1.jpg" crc="167886003" seo="true" ref="cupcakes">
+      <caption webpage="cupcakes" alt=""/>
+    </file>
+    <file name="cupcake2.jpg" crc="3962257372" seo="true" ref="cupcakes">
+      <caption webpage="cupcakes" alt=""/>
+    </file>
+    <file name="cupcake4.jpg" crc="402306360" seo="true" ref="cupcakes">
+      <caption webpage="cupcakes" alt=""/>
+    </file>
+    <file name="cupcake5.jpg" crc="4079969389" seo="true" ref="cupcakes">
+      <caption webpage="cupcakes" alt=""/>
+    </file>
+    <file name="u926-43.png" crc="4146948100" ref="cupcakes"/>
+    <file name="cake.jpg" crc="4175875963" seo="true" ref="cakes">
+      <caption webpage="cakes" alt=""/>
+      <caption webpage="cakes" alt=""/>
+      <caption webpage="cakes" alt=""/>
+    </file>
+    <file name="pastel3276x276.jpg" crc="220495328" seo="true" ref="cakes">
+      <caption webpage="cakes" alt=""/>
+    </file>
+    <file name="cake3.jpg" crc="4210605213" seo="true" ref="cakes">
+      <caption webpage="cakes" alt=""/>
+      <caption webpage="cakes" alt=""/>
+    </file>
+    <file name="pastel1275x275.jpg" crc="349046751" seo="true" ref="cakes">
+      <caption webpage="cakes" alt=""/>
+    </file>
+    <file name="u918-4.png" crc="30003690" ref="cakes"/>
+    <file name="pastel5276x276.jpg" crc="233228234" seo="true" ref="cakes">
+      <caption webpage="cakes" alt=""/>
+    </file>
+    <file name="pastel6276x276.jpg" crc="4014949152" seo="true" ref="cakes">
+      <caption webpage="cakes" alt=""/>
+    </file>
+    <file name="pastel2275x275.jpg" crc="4282013280" seo="true" ref="cakes">
+      <caption webpage="cakes" alt=""/>
+    </file>
+    <file name="pastel4275x276.jpg" crc="4013046689" seo="true" ref="cakes">
+      <caption webpage="cakes" alt=""/>
+    </file>
+    <file name="pastel3226x226.jpg" crc="4039477406" seo="true" ref="cakes">
+      <caption webpage="cakes" alt=""/>
+    </file>
+    <file name="cake3224x224.jpg" crc="4118299072" seo="true" ref="cakes">
+      <caption webpage="cakes" alt=""/>
+    </file>
+    <file name="pastel1224x224.jpg" crc="36796216" seo="true" ref="cakes">
+      <caption webpage="cakes" alt=""/>
+    </file>
+    <file name="u918-42.png" crc="3780798594" ref="cakes"/>
+    <file name="pastel5223x223.jpg" crc="3961533029" seo="true" ref="cakes">
+      <caption webpage="cakes" alt=""/>
+    </file>
+    <file name="pastel6224x224.jpg" crc="4156070687" seo="true" ref="cakes">
+      <caption webpage="cakes" alt=""/>
+    </file>
+    <file name="pastel2224x224.jpg" crc="4180556464" seo="true" ref="cakes">
+      <caption webpage="cakes" alt=""/>
+    </file>
+    <file name="pastel4223x224.jpg" crc="3966062344" seo="true" ref="cakes">
+      <caption webpage="cakes" alt=""/>
+    </file>
+    <file name="u918-43.png" crc="3780798594" ref="cakes"/>
+    <file name="pastel1.jpg" crc="4043761888" seo="true" ref="cakes">
+      <caption webpage="cakes" alt=""/>
+    </file>
+    <file name="pastel2.jpg" crc="3944880702" seo="true" ref="cakes">
+      <caption webpage="cakes" alt=""/>
+    </file>
+    <file name="pastel3.jpg" crc="193258998" seo="true" ref="cakes">
+      <caption webpage="cakes" alt=""/>
+    </file>
+    <file name="pastel5.jpg" crc="207211596" seo="true" ref="cakes">
+      <caption webpage="cakes" alt=""/>
+    </file>
+    <file name="pastel6.jpg" crc="384075254" seo="true" ref="cakes">
+      <caption webpage="cakes" alt=""/>
+    </file>
+    <file name="pastel4.jpg" crc="332117405" seo="true" ref="cakes">
+      <caption webpage="cakes" alt=""/>
+    </file>
+    <file name="malteada1275x275.jpg" crc="4037793739" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="malteada5275x275.jpg" crc="4108208327" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="malteada2275x275.jpg" crc="3786896239" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="malteada3275x275.jpg" crc="4037731957" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="u984-4.png" crc="3873930238" ref="beberages"/>
+    <file name="malteada6275x275.jpg" crc="3844937393" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="malteada7275x275.jpg" crc="4260799923" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="malteada4275x275.jpg" crc="4061381689" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="malteada8275x275.jpg" crc="360249890" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="malteada1224x224.jpg" crc="334655872" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="malteada5225x225.jpg" crc="4117238635" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="malteada2224x224.jpg" crc="3823617582" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="malteada3224x224.jpg" crc="442440664" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="u984-42.png" crc="3873930238" ref="beberages"/>
+    <file name="malteada6225x225.jpg" crc="3908690931" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="malteada7225x225.jpg" crc="4057625844" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="malteada4225x225.jpg" crc="458968852" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="malteada8225x225.jpg" crc="269477778" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="u984-43.png" crc="3873930238" ref="beberages"/>
+    <file name="malteada1.jpg" crc="422262951" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="malteada2.jpg" crc="3996299874" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="malteada3.jpg" crc="48535283" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="malteada4.jpg" crc="3780500244" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="malteada5.jpg" crc="4257150686" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="malteada8.jpg" crc="3965667871" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="malteada7.jpg" crc="282468335" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="malteada6.jpg" crc="4233319851" seo="true" ref="beberages">
+      <caption webpage="beberages" alt=""/>
+    </file>
+    <file name="u691-4.png" crc="136024775" ref="about-as"/>
+    <file name="u698-7.png" crc="4214568590" ref="about-as"/>
+    <file name="u691-42.png" crc="136024775" ref="about-as"/>
+    <file name="u698-72.png" crc="129355720" ref="about-as"/>
+    <file name="u691-43.png" crc="136024775" ref="about-as"/>
+    <file name="u698-73.png" crc="189130285" ref="about-as"/>
+  </folder>
+  <file name="index.html" crc="3945448551" seo="true" mt="1637437781509" redirect="true"/>
+  <file name="cupcakes.html" crc="4254803491" seo="true" mt="1637437856736" redirect="true"/>
+  <file name="cakes.html" crc="4086772553" seo="true" mt="1637437622657" redirect="true"/>
+  <file name="beberages.html" crc="4210735775" seo="true" mt="1637437137078" redirect="true"/>
+  <file name="about-as.html" crc="4229969815" seo="true" mt="1637437219065" redirect="true"/>
+</manifest>
